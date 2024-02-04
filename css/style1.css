@@ -1,0 +1,12 @@
+.gray{
+    background-color: dimgrey;
+    color: #ffffff;
+    min-height: 12vh;
+}
+.black{
+    background-color: black;
+    color: white;
+}
+.main-content{
+border: 2px solid black;    
+}
